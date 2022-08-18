@@ -1,0 +1,11 @@
+C:\Users\Computer\source\repos\ImapClient\ImapClient\bin\Debug\ImapClient.exe.config
+C:\Users\Computer\source\repos\ImapClient\ImapClient\bin\Debug\ImapClient.exe
+C:\Users\Computer\source\repos\ImapClient\ImapClient\bin\Debug\ImapClient.pdb
+C:\Users\Computer\source\repos\ImapClient\ImapClient\bin\Debug\Spire.Email.dll
+C:\Users\Computer\source\repos\ImapClient\ImapClient\bin\Debug\Spire.Email.xml
+C:\Users\Computer\source\repos\ImapClient\ImapClient\obj\Debug\ImapClient.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\ImapClient\ImapClient\obj\Debug\ImapClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer\source\repos\ImapClient\ImapClient\obj\Debug\ImapClient.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\ImapClient\ImapClient\obj\Debug\ImapClient.csproj.CopyComplete
+C:\Users\Computer\source\repos\ImapClient\ImapClient\obj\Debug\ImapClient.exe
+C:\Users\Computer\source\repos\ImapClient\ImapClient\obj\Debug\ImapClient.pdb
